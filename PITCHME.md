@@ -2,7 +2,7 @@
 
 +++
 
-![Logo](asserts/background.jpg)
+![Logo](assets/background.jpg)
 
 +++
 
@@ -14,10 +14,10 @@ Adiós!
 
 +++
 
----?image=asserts/background.jpg
+---?image=assets/background.jpg
 Hello world!
 
 +++
 
----?image=asserts/background.jpg&size=custom-size-config
+---?image=assets/background.jpg&size=custom-size-config
 Hello world!
